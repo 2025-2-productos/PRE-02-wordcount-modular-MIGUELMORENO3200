@@ -1,6 +1,6 @@
 """Entry point for the homework package."""
 
-# py -m homework data/input data/output
+# python3 -m homework data/input data/output
 
 from .src.wordcount import main
 
